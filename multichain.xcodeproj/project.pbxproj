@@ -321,7 +321,7 @@
 		0735E90622120AEB0090EB97 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-Internal";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = GJBC3CBCAM;
 				INFOPLIST_FILE = multichain/Info.plist;
@@ -340,7 +340,7 @@
 		0735E90722120AEB0090EB97 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-Internal";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = GJBC3CBCAM;
 				INFOPLIST_FILE = multichain/Info.plist;
